@@ -1,8 +1,7 @@
-1. I have include pdf for comparisions
-2. jupyter notebook file which has the outputs you need in it so no need to run but if you want to run you can simply run it. 
-3. Video of outputs as a proof.
+> **Note:** This Jupyter notebook file already contains all the necessary outputs, so it's not essential to run it again. However, if you wish to rerun the notebook, feel free to do so without any complications.
 
- note : All the outputs in video are same as the comparision pdf and jupyter notebook.
+
+
 
 
 ![Image 1](https://github.com/Qtonium/Maze-using-using-AI/blob/main/Images/Comparision-01.png)
